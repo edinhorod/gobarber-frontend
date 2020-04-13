@@ -14,3 +14,9 @@
 4 - Utilizando Root Import
     yarn add customize-cra react-app-rewired
     yarn add babel-plugin-root-import -D
+
+5 - Estilizando autenticação
+    yarn add polished
+
+6 - Utilizando unform
+    yarn add @rocketseat/unform
