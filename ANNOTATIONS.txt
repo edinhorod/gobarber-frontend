@@ -7,3 +7,10 @@
 2 - Configurando rotas
     yarn add react-router-dom
     yarn add history
+
+3 - Layoust por página
+    yarn add styled-components
+
+4 - Utilizando Root Import
+    yarn add customize-cra react-app-rewired
+    yarn add babel-plugin-root-import -D
