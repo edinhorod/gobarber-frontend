@@ -1,5 +1,9 @@
 1 - ESLint, Prettier & EditorConfig
-        yarn add eslint -D //verifica se o código está seguindo os padrões
-        yarn eslint --init //inica o arquivo de configuração do eslint
-        yarn add prettier eslint-config-prettier eslint-plugin-prettier -D //plugin para deixar o codigo mais bonito
-        yarn eslint --fix src --ext .js //corrigir todos os erros de sintaxe dos arquivos com extensão js
+    yarn add eslint -D //verifica se o código está seguindo os padrões
+    yarn eslint --init //inica o arquivo de configuração do eslint
+    yarn add prettier eslint-config-prettier eslint-plugin-prettier -D //plugin para deixar o codigo mais bonito
+    yarn eslint --fix src --ext .js //corrigir todos os erros de sintaxe dos arquivos com extensão js
+
+2 - Configurando rotas
+    yarn add react-router-dom
+    yarn add history
