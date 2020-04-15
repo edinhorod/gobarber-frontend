@@ -20,3 +20,9 @@
 
 6 - Utilizando unform
     yarn add @rocketseat/unform
+
+7 - Validação
+    yarn add yup
+
+8 - Configurando sstore (redux)
+    yarn add redux redux-saga react-redux reactotron-redux reactotron-redux-saga immer
