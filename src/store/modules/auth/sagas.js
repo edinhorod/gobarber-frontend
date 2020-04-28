@@ -13,7 +13,7 @@ export function* signIn({ payload }) {
         email,
         password,
     });
-    console.log(response);
+    // console.log(response);
 
     const { token, user } = response.data;
     if (!user.provider) {
